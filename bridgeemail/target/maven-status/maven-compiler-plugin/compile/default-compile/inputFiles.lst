@@ -1,0 +1,14 @@
+C:\Users\simaw\Downloads\bridgeemail\src\main\java\clientEmail\ClientEmailApplication.java
+C:\Users\simaw\Downloads\bridgeemail\src\main\java\clientEmail\controller\ClientEmailController.java
+C:\Users\simaw\Downloads\bridgeemail\src\main\java\clientEmail\dto\EmailRequest.java
+C:\Users\simaw\Downloads\bridgeemail\src\main\java\clientEmail\service\ClientEmailService.java
+C:\Users\simaw\Downloads\bridgeemail\src\main\java\serverEmail\configuration\EmailConfiguration.java
+C:\Users\simaw\Downloads\bridgeemail\src\main\java\serverEmail\configuration\EmailConfigurationGmail.java
+C:\Users\simaw\Downloads\bridgeemail\src\main\java\serverEmail\configuration\EmailConfigurationWalla.java
+C:\Users\simaw\Downloads\bridgeemail\src\main\java\serverEmail\configuration\EmailConfigurationYahoo.java
+C:\Users\simaw\Downloads\bridgeemail\src\main\java\serverEmail\controller\EmailController.java
+C:\Users\simaw\Downloads\bridgeemail\src\main\java\serverEmail\dto\EmailRequest.java
+C:\Users\simaw\Downloads\bridgeemail\src\main\java\serverEmail\ServerEmailApplication.java
+C:\Users\simaw\Downloads\bridgeemail\src\main\java\serverEmail\service\EmailConfigurationFactory.java
+C:\Users\simaw\Downloads\bridgeemail\src\main\java\serverEmail\service\EmailService.java
+C:\Users\simaw\Downloads\bridgeemail\src\main\java\serverEmail\service\MimeMessageBuilder.java

@@ -1,0 +1,15 @@
+serverEmail\service\EmailService.class
+serverEmail\service\EmailService$1.class
+serverEmail\controller\EmailController.class
+serverEmail\dto\EmailRequest.class
+serverEmail\configuration\EmailConfigurationWalla.class
+serverEmail\configuration\EmailConfiguration.class
+serverEmail\service\MimeMessageBuilder.class
+clientEmail\dto\EmailRequest.class
+serverEmail\configuration\EmailConfigurationGmail.class
+serverEmail\configuration\EmailConfigurationYahoo.class
+clientEmail\ClientEmailApplication.class
+clientEmail\controller\ClientEmailController.class
+clientEmail\service\ClientEmailService.class
+serverEmail\ServerEmailApplication.class
+serverEmail\service\EmailConfigurationFactory.class
